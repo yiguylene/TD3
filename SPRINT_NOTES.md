@@ -16,3 +16,4 @@ L'équipe s'est réunie pour planifier le **Sprint 1**.
   * **Sara** : Conception ergonomique et maquettes UI (SCRUM-51, SCRUM-54, SCRUM-57).
   * **Luka** : Implémentation technique et gestion des données (SCRUM-52, SCRUM-55, SCRUM-58).
   * **Yiguylène** : Définition et recette des critères d'acceptation QA (SCRUM-53, SCRUM-56, SCRUM-59).
+*Dernière mise à jour par l'équipe.*
